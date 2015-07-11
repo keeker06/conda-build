@@ -13,8 +13,8 @@ Installation
     conda install -n root conda-build
 
 
-Building Your Own Packages
---------------------------
+Building Your Own Packages is fun!
+----------------------------------------
 
 You can easily build your own packages for conda, and upload them to `Binstar
 <https://binstar.org>`_, a free service for hosting packages for conda, as
